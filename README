@@ -1,0 +1,11 @@
+******Trabalho Pratico 3*******
+Aluno: Francis Carlos dos Santos 2012022167
+franciscarlossantos@gmail.com
+
+Para executar o programa basta executar da seguinte maneira:
+
+>>make
+>>./tp3 Numero_threads <entrada
+
+
+
